@@ -39,7 +39,7 @@ This project documents a Tier-1 SOC investigation into a suspected phishing emai
 For hands-on analysis, the raw email file has been included in this repository. 
 
 * ⚠️ **WARNING:** This is a real phishing sample containing malicious links. Handle with care and open only in a safe, sandboxed environment.
-* **File:** [`phishing_sample.eml`](./phishing_sample.eml)
+* **File:** [`phishing_sample.eml`](./sample-1007.eml)
 
 ---
 
