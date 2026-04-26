@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Useful Tools
+## 🛠️ Used Tools
 
 **Email Header & Authentication Analysis**
 * MXToolbox
