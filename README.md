@@ -3,7 +3,7 @@
 > *Phishing is a type of cyberattack that uses fraudulent emails, text messages, phone calls, or websites to trick people into sharing sensitive data, downloading malware, or otherwise exposing themselves to cybercrime.*
 
 ## 🪐 Contents
-* [Useful Tools](#useful-tools)
+* [Used Tools](#useful-tools)
 * [Overview](#overview)
 * [Sample Email File](#sample-email-file)
 * [Email Header](#email-header)
